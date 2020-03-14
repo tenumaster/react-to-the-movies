@@ -3,7 +3,7 @@
 Tu plataforma regalona para saber más sobre tus películas favoritas!
 
 Si desea ejecutar este proyecto debe tener instalado Node.JS en su equipo.
-(Basado en su desarollo se recomienda la versión 6.14.2)
+(Basado en su desarollo se recomienda la versión 6.14.2 de Node.JS y 6.14.2 de npm)
 
 Este proyecto fue iniciado con [Create React App](https://github.com/facebook/create-react-app).
 
