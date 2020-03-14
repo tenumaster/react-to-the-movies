@@ -1,10 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-//import App from './App';
+
 import Header from './components/Header';
 import Welcome from './components/Welcome';
-//import SearchResult from './components/SearchResult';
+
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(<Header />, document.getElementById('header'));

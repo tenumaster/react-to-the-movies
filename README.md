@@ -5,7 +5,17 @@ Tu plataforma regalona para saber más sobre tus películas favoritas!
 Si desea ejecutar este proyecto debe tener instalado Node.JS en su equipo.
 (Basado en su desarollo se recomienda la versión 6.14.2 de Node.JS y 6.14.2 de npm)
 
+Probablemente también vas a necesitar un Servidor apache como el incluído en [XAMPP](https://www.apachefriends.org/es/index.html), [WAMPSERVER](http://www.wampserver.com/en/), [AppServ](https://www.appserv.org/en/download/), [MAMP](https://www.mamp.info/en/downloads/), [NGINX](https://nginx.org/en/download.html) o Cualquier que sea de su preferencia.
+
+Para efectos prácticos, si deseas descargar este repositorio para ocuparlo tendrás que ubicarlo en el respectivo directorio y una terminal ejecutar:
+##1.- `npm install`
+##2.- `npm start`
+Esperar un momento y su explorador por defecto se abrirá o abrirá una pestaña y ya estará operativo.
+
+Si NO deseas descargarlo, puedes probarlo en el siguiente [enlace](https://tenumaster.github.io/react-to-the-movies/)
 Este proyecto fue iniciado con [Create React App](https://github.com/facebook/create-react-app).
+
+Dejaré los Scripts disponibles mencionados en Create-React-App por si se le es de su interés.
 
 ## Scripts Disponibles
 
@@ -38,38 +48,38 @@ Vea la sección sobre [deployment](https://facebook.github.io/create-react-app/d
 
 **Nota: Esta es una operación de un solo camino. Una vez `ejecutado`, no puedes arrepentirte!**
 
-Si no estás satisfecho con la herramienta de construcción y elecciones de configuración, puedes `ejecutarla` en cualquier momento. This command will remove the single build dependency from your project.
+Si no estás satisfecho con la herramienta de construcción y elecciones de configuración, puedes `eject` (Ejecutar) en cualquier momento. Este comando removerá la dependencia única de su proyecto.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+En cambio, copiará todos los archivos de configuración y las dependencias transitivas (webpack, Babel, ESLint, etc) directo a su proyecto para que tengas control total sobre esta. Todos los comandos a excepción de `eject` seguirán trabajando pero apuntarán a los scripts copiados para que puedas retocarlos. Ya en este punto estás a tu cuenta.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+No necesitarás ocupar `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+## Saber más
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Puedas aprender aún más en la[documentación de Create React App](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Para aprender React, revisa la [documentación de React](https://reactjs.org/).
 
-### Code Splitting
+### División de Código
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+Esta sección fue traslada aquí: https://facebook.github.io/create-react-app/docs/code-splitting
 
-### Analyzing the Bundle Size
+### Analizando el tamaño del conjunto
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+Esta sección fue traslada aquí: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
 
-### Making a Progressive Web App
+### Desarrollando una Web App progresiva
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+Esta sección fue traslada aquí: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
 
-### Advanced Configuration
+### Configuración avanzada
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+Esta sección fue traslada aquí: https://facebook.github.io/create-react-app/docs/advanced-configuration
 
 ### Deployment
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+Esta sección fue traslada aquí: https://facebook.github.io/create-react-app/docs/deployment
 
-### `npm run build` fails to minify
+### `npm run build` falla al minificar
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+Esta sección fue traslada aquí: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
